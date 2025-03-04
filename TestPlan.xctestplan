@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "BDD40099-AF9A-4E57-AE7F-D997F8B5D444",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:SwiggySnacc.xcodeproj",
+        "identifier" : "F3925D152D63225300ED1F7C",
+        "name" : "SwiggySnaccTests"
+      }
+    }
+  ],
+  "version" : 1
+}
