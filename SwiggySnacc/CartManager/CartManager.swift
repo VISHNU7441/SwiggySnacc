@@ -8,6 +8,9 @@
 import Foundation
 
 // Handle all cart related functions
+
+// try new change
+
 class CartManager{
     static let shared = CartManager()
     var addedProducts:[FoodItem] = []
