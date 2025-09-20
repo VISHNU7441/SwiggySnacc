@@ -21,5 +21,3 @@ struct SwiggySnaccApp: App {
 #Preview {
     HomeView()
 }
-
-// new commit changes on this file
